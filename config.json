@@ -1,0 +1,23 @@
+{
+	"language":"en",
+	"title":"Mr.Config - Indonesia",
+	"favicon":"favicon.ico",
+	"imglogo":"assets/logo.png",
+	"namelogo":"Mr.Config",
+	"copyright":
+	{
+		"column1":"<a href=\"https://salinku.xyz\" target=\"_blank\">Mr.config Ltd</a> &copy; 2018. All Rights Reserved.",
+		"column2":"Developer <a class=\"icon style2 fa-envelope-o\" href=\"mailto:dev@salinku.xyz\"><span class=\"label\">Mailto</span></a>. Template From Bootstrap4"
+	},
+	"sosmed":
+	{
+		"twitter":"https://twitter.com/",
+		"facebook":"https://fb.me/mr.config",
+		"instagram":"https://instagram.com/",
+		"dribbble":"",
+		"github":"https://github.com/piterpicek",
+		"500px":"",
+		"phone":"",
+		"envelope-o":"mailto:dev@salinku.xyz"
+	}
+}
